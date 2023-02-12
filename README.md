@@ -11,6 +11,5 @@ class Programmer:
 
     def goalsFor2023(self):
         LandATechInternship()
-        Build()
-        WriteABlog()
+        BuildAWebApp()
 ```
