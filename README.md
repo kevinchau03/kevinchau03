@@ -1,15 +1,15 @@
 What's Up I'm Kev
 ```
 class Programmer:
-    name = 'Kevin Chau
+    name = 'Kevin Chau'
     pronouns = 'He/Him'
     interests = [
-                    'Full Stack Development',
-                    'Video Game Development',
+                    'Anime'
+                    'Video Games'
                     'Basketball'
                 ]
 
-    def goalsFor2023(self):
+    def goalsFor2024(self):
         LandATechInternship()
-        BuildAWebApp()
+        DevelopAFullStackApp()
 ```
