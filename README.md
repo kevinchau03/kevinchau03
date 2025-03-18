@@ -1,13 +1,12 @@
-## Hey! I'm Kevin Chau
-A passionate software engineer motivated to build good product.
-```
+## Hey! I'm Kevin Chau 👋
+Striving to be the rumored 10x engineer.
+```ruby
 class Programmer:
     name = 'Kevin Chau'
     pronouns = 'He/Him'
-    interests = [ Basketball, Self-improvement, Fashion, Comics ]
+    interests = [ Sports, Comics, Anime, Fitness ]
     def goalsFor2025(self):
         LandTechInternship()
-        HitTheSplits()
         TravelMore()
 ```
 ## Connect with me!
